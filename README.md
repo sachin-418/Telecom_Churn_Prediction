@@ -45,18 +45,6 @@ The complete workflow covers:
 
 ---
 
-# 🎥 Demo
-
-> Replace this with your screen recording GIF.
-
-<p align="center">
-
-<img src="YOUR_GIF_URL" width="900">
-
-</p>
-
----
-
 # ✨ Features
 
 ✅ Predict Telecom Customer Churn
